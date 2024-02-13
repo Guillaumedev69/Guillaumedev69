@@ -1,6 +1,8 @@
 
 👋 Hi, my name is Guillaume
 
+🔵⚪🔴 I'm a French developer
+
 🌱 I am currently learning web development thanks to OpenClassrooms
 
 📫 You can contact me by email: devstree.guillaume@gmail.com
