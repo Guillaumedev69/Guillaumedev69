@@ -1,13 +1,13 @@
 
 👋 Hi, my name is Guillaume
 
-🔵⚪🔴 I'm a French developer
-
-🌱 I am currently learning web development thanks to OpenClassrooms
+🔵⚪🔴 I'm a French developer frontend
 
 📫 You can contact me by email: devstree.guillaume@gmail.com
 ## 🛠 Skills
-Javascript, HTML, CSS
+React, Javascript, HTML, CSS
+SEO optimization, Improvement of accessibility
+Lighthouse, Wave, Schmea.org, Meta Tags
 
 
 ## 🔗 Links
