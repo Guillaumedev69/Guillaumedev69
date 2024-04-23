@@ -5,8 +5,8 @@
 
 📫 You can contact me by email: devstree.guillaume@gmail.com
 ## 🛠 Skills
-React, Javascript, HTML, CSS
-SEO optimization, Improvement of accessibility
+React, Javascript, HTML, CSS <br>
+SEO optimization, Improvement of accessibility <br>
 Lighthouse, Wave, Schmea.org, Meta Tags
 
 
