@@ -6,6 +6,7 @@
 📫 You can contact me by email: devstree.guillaume@gmail.com
 ## 🛠 Skills
 React, Javascript, HTML, CSS <br>
+Node.js, Express.js, MongoDB, API REST <br>
 SEO optimization, Improvement of accessibility <br>
 Lighthouse, Wave, Schmea.org, Meta Tags
 
