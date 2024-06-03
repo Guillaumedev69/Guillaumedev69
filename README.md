@@ -1,7 +1,7 @@
 
 👋 Hi, my name is Guillaume
 
-🔵⚪🔴 I'm a French developer web
+🔵⚪🔴 I'm a French web developer
 
 📫 You can contact me by email: devstree.guillaume@gmail.com
 ## 🛠 Skills
